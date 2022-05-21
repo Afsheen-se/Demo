@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, SecActivity.class);
+                i.putExtra("counter" , counter);
                 startActivity(i);
             }
         });
