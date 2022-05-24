@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mybook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyBook">
+        <activity
+            android:name=".QlastAct"
+            android:exported="false" />
+        <activity
+            android:name=".QfiveAct"
+            android:exported="false" />
+        <activity
+            android:name=".QfourAct"
+            android:exported="false" />
+        <activity
+            android:name=".QthreeAct"
+            android:exported="false" />
+        <activity
+            android:name=".QtwoAct"
+            android:exported="false" />
+        <activity
+            android:name=".QoneAct"
+            android:exported="false" />
+        <activity
+            android:name=".ZAct"
+            android:exported="false" />
+        <activity
+            android:name=".YAct"
+            android:exported="false" />
+        <activity
+            android:name=".XAct"
+            android:exported="false" />
+        <activity
+            android:name=".WAct"
+            android:exported="false" />
+        <activity
+            android:name=".VAct"
+            android:exported="false" />
+        <activity
+            android:name=".UAct"
+            android:exported="false" />
+        <activity
+            android:name=".TAct"
+            android:exported="false" />
+        <activity
+            android:name=".SAct"
+            android:exported="false" />
+        <activity
+            android:name=".RAct"
+            android:exported="false" />
+        <activity
+            android:name=".QAct"
+            android:exported="false" />
+        <activity
+            android:name=".PAct"
+            android:exported="false" />
+        <activity
+            android:name=".OAct"
+            android:exported="false" />
+        <activity
+            android:name=".NAct"
+            android:exported="false" />
+        <activity
+            android:name=".MAct"
+            android:exported="false" />
+        <activity
+            android:name=".LAct"
+            android:exported="false" />
+        <activity
+            android:name=".KAct"
+            android:exported="false" />
+        <activity
+            android:name=".JAct"
+            android:exported="false" />
+        <activity
+            android:name=".IAct"
+            android:exported="false" />
+        <activity
+            android:name=".HAct"
+            android:exported="false" />
+        <activity
+            android:name=".GAct"
+            android:exported="false" />
+        <activity
+            android:name=".FAct"
+            android:exported="false" />
+        <activity
+            android:name=".EAct"
+            android:exported="false" />
+        <activity
+            android:name=".DAct"
+            android:exported="false" />
+        <activity
+            android:name=".CAct"
+            android:exported="false" />
+        <activity
+            android:name=".BAct"
+            android:exported="false" />
+        <activity
+            android:name=".LsnActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PicActivity" />
+    </application>
+
+</manifest>

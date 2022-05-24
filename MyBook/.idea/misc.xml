@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_bact.xml" value="0.2" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_cact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_dact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_eact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_fact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_gact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_hact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_iact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_jact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_kact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_lact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_lrn.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_lsn.xml" value="0.2" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_mact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_nact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_nextone.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_nexttwo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_oact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_pact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_pic.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qfive.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qfour.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qlast.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qone.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qthree.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_qtwo.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_quiz.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_ract.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_sact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_tact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_uact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_vact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_wact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_xact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_yact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sabir/AndroidStudioProjects/MyBook/app/src/main/res/layout/activity_zact.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
